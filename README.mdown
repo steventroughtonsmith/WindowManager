@@ -1,0 +1,11 @@
+WindowManager
+=============
+
+(Not actually a window manager)
+
+Just an experiment - don't expect to use in real apps or pass App Store review process. Not production-ready or recommended. Pull Requests/Issues not necessary & may be ignored.
+
+SCREENSHOT
+=============
+
+[![](https://lh3.googleusercontent.com/-tOTEnuf6e5I/Vn1MrVQdb-I/AAAAAAAACL8/SJ_NSzvONRc/s1024-Ic42/IMG_0883.jpg)](https://lh3.googleusercontent.com/-tOTEnuf6e5I/Vn1MrVQdb-I/AAAAAAAACL8/SJ_NSzvONRc/s1024-Ic42/IMG_0883.jpg)
